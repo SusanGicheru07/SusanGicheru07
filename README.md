@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning Machine Learning and AI<br>I'm looking to collaborate on open source Backend Development projects<br>I'm looking for help with Deep Learning Projects<br>Ask me about Python <br>Fun Fact:  I prefer video coding lessons more than reading pdfs but documentations of programming languages fascinate me
+I am currently learning Machine Learning and AI<br>I'm looking to collaborate on open source Backend Development projects<br>I'm looking for help with Deep Learning Projects<br>Ask me about Python <br>Fun Fact:  I prefer video coding lessons to reading pdfs but documentations of programming languages fascinate me
 
 
 ## 🌐 Socials:
